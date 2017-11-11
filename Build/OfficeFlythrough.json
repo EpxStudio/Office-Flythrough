@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "OfficeFlythrough.data.unityweb",
+"asmCodeUrl": "OfficeFlythrough.asm.code.unityweb",
+"asmMemoryUrl": "OfficeFlythrough.asm.memory.unityweb",
+"asmFrameworkUrl": "OfficeFlythrough.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
